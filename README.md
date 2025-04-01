@@ -42,8 +42,8 @@ Each project contains a dedicated `README.md` with specific setup instructions. 
 
 ### **Cloning the Repository**  
 ```sh
-git clone https://github.com/MahmoudB13/ostep-projects.git  
-cd ostep-projects  
+git clone https://github.com/MahmoudB13/OSTEP.git  
+cd OSTEP  
 ```
 
 ### **Compiling & Running**  
